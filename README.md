@@ -1,5 +1,15 @@
 # Spotify Liked Transfer
 
+## Unmaintained
+
+I fixed the original because I wanted a utility for myself to use for organising my music.
+
+I only had to use it once, and thus will not be maintaining it any longer.
+
+You should check out [carolinaisslaying's fork](https://github.com/carolinaisslaying/spotify-liked-transfer) for a newer, up-to-date version!
+
+## Old Readme
+
 This is a fork of [Spotify Liked Transfer](https://github.com/rumblefrog/spotify-liked-transfer), which
 no longer works, probably due to changes in the Spotify API. Idk though, this is the first time I've
 used the Spotify API.
